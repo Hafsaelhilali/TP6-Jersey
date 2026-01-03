@@ -26,3 +26,5 @@ Configurer la base de données
 Dans src/main/resources/application.properties :
 
 spring.datasource.url=jdbc:h2:mem:banque spring.h2.console.enabled=true spring.jpa.hibernate.ddl-auto=update
+<img width="1037" height="405" alt="image" src="https://github.com/user-attachments/assets/f5188a8b-87b5-4f28-b035-bfd162e34aff" />
+
